@@ -1,7 +1,7 @@
 // Array containing the choices for the game
 const choices = ["Rock", "Paper", "Scissors"];
 
-// Getting references to HTML elements using their IDs
+// Getting references from HTML elements using their IDs
 const playerDisplay = document.getElementById("playerDisplay");
 const computerDisplay = document.getElementById("computerDisplay");
 const resultDisplay = document.getElementById("resultDisplay");
